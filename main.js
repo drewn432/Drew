@@ -44,7 +44,8 @@ function Bunny() {
     // instance variables
     var x = mouseX;
     var y = mouseY;
-
+    var diameter = 200;
+    
     this.getDistance = function(other) {
         var dist = Math.sqrt(Math.pow(x - other.x, 2) + Math.pow(y - other.y, 2));
         return dist;

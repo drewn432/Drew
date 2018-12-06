@@ -20,5 +20,5 @@ Andrew
 <li>Is</li>
 <li>Greasy</li>
 </ol>  
-![Alt text](http://conradfire.com/wp-content/uploads/2018/08/Sal9.jpg)
+(http://conradfire.com/wp-content/uploads/2018/08/Sal9.jpg)
 
